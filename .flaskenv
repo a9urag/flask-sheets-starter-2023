@@ -1,1 +1,1 @@
-FLASK_APP=flask-sheets-starter.py
+FLASK_APP=main.py
